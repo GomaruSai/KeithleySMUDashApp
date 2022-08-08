@@ -1,0 +1,9 @@
+Applied Voltage = N/AV, Current HI = 1e-05A, Current LO = 0A, Interval = 5000s, Pulse Duration = 200.0s, Measurement Time = 30000s 
+Time [s],Voltage [V]
+0.0,5.08595e-02
+5.0,5.08332e-02
+10.0,5.08571e-02
+15.0,5.07784e-02
+20.0,5.08070e-02
+25.0,5.07855e-02
+30.0,5.07975e-02

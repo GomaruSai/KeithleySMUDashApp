@@ -1,0 +1,2 @@
+Source Voltage = 0.2; V_i = -0.2; V_f = 0.4; dV = 0.1
+Source Voltage [V],Gate Voltage [V],Source Current [A],Gate Current [A]

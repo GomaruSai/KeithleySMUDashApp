@@ -1,0 +1,7 @@
+Source Current = 1e-05A, Gate Voltage = 0.055V, Measurement Time = 5s, Measurement interval = 1s 
+Time [s],Source Voltage [V],Gate Current [A]
+0.0,3.48520e-02,2.53916e-07
+1.0053410530090332,3.48496e-02,2.65837e-07
+2.016434907913208,3.48687e-02,2.74181e-07
+3.0236947536468506,3.48639e-02,2.94447e-07
+4.025927305221558,3.48639e-02,2.39611e-07

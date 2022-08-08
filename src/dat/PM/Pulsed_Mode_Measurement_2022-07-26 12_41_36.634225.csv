@@ -1,0 +1,4 @@
+Applied Voltage = NoneV, Current HI = 1e-05A, Current LO = 0A, Interval = 30, Pulse Duration = 0.2, Measurement Time = 300s 
+Time [s],Voltage [V]
+0.0,0.000534058
+30.0,0.0509071
