@@ -1,7 +1,10 @@
 # Keithley SMU Dash App
-> Real Time Data Monitoring and Measurement Software for Keithley 26XXY SMUs using pyvisa, Keithley Testscript and Plotly Dash
+> Real Time Data Monitoring and Measurement Software for Keithley 26XXY SMUs I developed using pyvisa, Keithley Testscript and Plotly Dash
 
 SMU-A corresponds to the Gate, while SMU-B corresponds to the Source-Drain.
+
+## Video of the software being used
+
 
 ## I-V Characterization
 
@@ -25,5 +28,3 @@ SMU-A corresponds to the Gate, while SMU-B corresponds to the Source-Drain.
 Still under development
 
 ## Measurement Data files in .csv format
-
-## 
