@@ -3,7 +3,7 @@
 
 SMU-A corresponds to the Gate, while SMU-B corresponds to the Source-Drain.
 
-## Video of the software being used
+## Video demonstration of the software
 https://user-images.githubusercontent.com/50164214/205989798-be7ac96d-4b92-41e0-a385-661224500bb8.mp4
 
 
